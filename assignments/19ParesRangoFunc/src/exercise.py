@@ -15,7 +15,7 @@ def main():
                 for valor in range(v2,v1+1):
                     if valor%2==0:
                         print(valor)
-    else:
+        else:
             print("No hay pares")     
 
 
